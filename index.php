@@ -32,7 +32,6 @@
         <li class=""><a href="#tab_intbin" data-toggle="pill">Binary (Integer)</a></li>
         <li class=""><a href="#tab_aschex" data-toggle="pill">Hex (Ascii)</a></li>
         <li class=""><a href="#tab_inthex" data-toggle="pill">Hex (Integer)</a></li>
-        <li class=""><a href="#tab_jshex" data-toggle="pill">Hex (JS)</a></li>
         <li class=""><a href="#tab_html" data-toggle="pill">HTML</a></li>
         <li class=""><a href="#tab_ascoct" data-toggle="pill">Oct (Ascii)</a></li>
         <li class=""><a href="#tab_intoct" data-toggle="pill">Oct (Integer)</a></li>
