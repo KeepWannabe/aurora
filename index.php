@@ -20,7 +20,7 @@
           <a class="navbar-brand" href="#">AURORA</a>
         </div>
         <ul class="nav navbar-nav navbar-right">
-            <li><a href="http://103.129.221.24:1337/">Casanova</a></li>
+            <li><a href="https://c0delabs.com/aurora">Casanova</a></li>
         </ul>
       </div><!-- /.container-fluid -->
     </nav>
