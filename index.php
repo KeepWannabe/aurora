@@ -3,7 +3,7 @@
      <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Aurora | CASANOVA</title>
+    <title>Aurora | CASAN0VA</title>
     <meta name="description" content="Free Multi Encoder">
     <meta name="keywords" content="encoder, decoder, base64 encode, base64 decode, urlencode, urldecode, hex encode, hex decode, html encode, html decode">
     <meta name="author" content="Mukhammad Akbar">
